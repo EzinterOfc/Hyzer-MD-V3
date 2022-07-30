@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6281807254833'] 
+global.owner = ['6285600380823','6285693650294'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OWNER IBNU'
-global.numberowner = '6281807254833'
-global.instagram = 'https://chat.whatsapp.com/J01ENpARIMs8LvwaRM9LIm'
-global.github = 'https://github.com/POOJJHG/Hyzer-MD-V3'
-global.dana = '081807254833'
-global.pulsa = '081807254833'
-global.gopay = '081807254833'
+global.nameowner = 'NeoOfc'
+global.numberowner = '6285600380823'
+global.instagram = 'https://www.instagram.com/lebihkerendariandy_warholl.093/'
+global.github = 'https://github.com/EzinterOfc/Hyzer-MD-V3'
+global.dana = '085600380823'
+global.pulsa = '85693650294'
+global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'IBNU-MD'
-global.gc = 'https://chat.whatsapp.com/J01ENpARIMs8LvwaRM9LIm'
-global.web = 'https://chat.whatsapp.com/J01ENpARIMs8LvwaRM9LIm' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'NeoBotz-MD'
+global.gc = 'https://chat.whatsapp.com/DnOeCnfvCvREjasisjOCpU'
+global.web = 'https://bit.ly/profil_wahyu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'ꜱʜɪʀᴏ ɪᴋᴀꜱᴀᴋɪ ʙᴏᴛ'
+global.wm = '© NeoBσƚȥMD'
 global.watermark = wm
-global.wm2 = '                     「 IBNU-𝙼𝙳 あ⁩ 」'
-global.wm3 = 'IBNU-𝙼𝙳'
+global.wm2 = '「 NeoBotzMD 」'
+global.wm3 = '© NeoBσƚȥMD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
